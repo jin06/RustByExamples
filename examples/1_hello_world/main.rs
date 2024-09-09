@@ -7,7 +7,6 @@ fn main() {
     // The ! indicates that println is a macro, not a regular function. 
     // Macros in Rust can generate code at compile time and are commonly used for tasks like formatting text or handling patterns that would otherwise require repetitive code.
 
-
     // "Hello World!": This is a string literal. Rust uses double quotes for string literals, and this particular string will be printed to the console.
     println!("Hello World!")  
 }
